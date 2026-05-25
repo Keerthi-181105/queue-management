@@ -1,3 +1,8 @@
+## Live Demo
+
+🚀 View the deployed project here:  
+🔗 https://keerthi-181105.github.io/queue-management/
+
 # 🏥 Healthcare Queue Management System
 
 A smart healthcare queue management system that enables patients to join queues, book appointments, and track real-time status, while doctors efficiently manage patient flow and view analytics.

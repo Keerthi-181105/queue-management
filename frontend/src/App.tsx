@@ -9,8 +9,10 @@ import LandingPage from "./pages/LandingPage";
 import PatientDashboard from "./pages/PatientDashboard";
 
 function App() {
+  const basename = import.meta.env.BASE_URL;
+
   return (
-    <Router>
+    <Router basename={basename}>
       <div className="App">
         <Routes>
           <Route path="/" element={<LandingPage />} />
